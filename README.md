@@ -97,3 +97,11 @@ The task is a binary classification problem, evaluated using macro F1 score to e
 
 * streamlit
 
+## Reference
+1. http://who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon
+2. https://www.gallup.com/workplace/288539/employee-burnout-biggest-myth.aspx
+3. https://www.ajpmonline.org/article/S0749-3797(25)00023-6/abstract
+4. https://pubmed.ncbi.nlm.nih.gov/36706670/
+5. https://www.linkedin.com/pulse/impact-burnout-employee-productivity-call-action-modern-workplaces-5hyfc/
+6. https://www.ualberta.ca/en/folio/2024/01/seven-things-you-should-know-about-job-burnout.
+7. html#:~:text=He%20cites%20research%20conducted%20by,of%20harmful%20effects%20on%20health.
